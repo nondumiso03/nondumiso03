@@ -42,11 +42,11 @@ As a Final-year Computer Science student and Cybersecurity trainee, I enjoy expl
 ---
 
 ## 🎉 Fun Facts About Me
-I started out coding in **Java**, and it’s still my comfort language.  
-I’m always learning something new on **TryHackMe**.  
-I love digging into **network packets with Wireshark** because it feels like detective work and feeds my curiosity.  
-I enjoy writing clear documentation because I believe **tech should be accessible to everyone**.  
-Outside of tech, I enjoy **cooking**, going to the **gym**, **jogging** and listening to **podcasts**.  
+- I started out coding in **Java**, and it’s still my comfort language.  
+- I’m always learning something new on **TryHackMe**.  
+- I love digging into **network packets with Wireshark** because it feels like detective work and feeds my curiosity.  
+- I enjoy writing clear documentation because I believe **tech should be accessible to everyone**.  
+- Outside of tech, I enjoy **cooking**, going to the **gym**, **jogging** and listening to **podcasts**.  
 
 ---
 
