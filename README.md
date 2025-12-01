@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 # I'm Nondumiso Mandy Xulu 👩🏽‍💻
-
-I'm deeply passionate about **technology** and especially anything related to **security**.  
-As a Final-year Computer Science student and Cybersecurity trainee, I enjoy exploring how systems work and how they can be protected.
+A Final-year Computer Science student and Cybersecurity trainee interested in Blue team, I'm deeply passionate about **technology** and anything related to **security**. I really enjoy exploring how systems work and how they can be protected. 
 
 ---
 
