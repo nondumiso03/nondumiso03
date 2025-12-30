@@ -6,7 +6,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 🛠 Tech Stack
-- **Programming & Web Development**: Java (SE & JEE), HTML, CSS, SQL  
+- **Programming & Web Development**: Java (SE & JEE), HTML, CSS, JavaScript, SQL  
 - **Operating Systems & Scripting**: Linux (Ubuntu, Bash CLI)  
 - **Database Management**: SQL/PLSQL for design and queries  
 
@@ -21,7 +21,8 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 🎯 Interests
-- Cybersecurity & digital forensics  
+- Cybersecurity & digital forensics
+- Web Design
 - AI chatbot configuration and automation  
 - System engineering and infrastructure setup  
 
