@@ -29,7 +29,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 📂 Projects
-- Projects are pending — updates coming soon!
+- Cleaning Services website: 
   
 ---
 
