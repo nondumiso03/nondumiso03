@@ -40,6 +40,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 
 Technologies Used:
 - Java (JEE)
+- HTML
 - JSP (JavaServer Pages)
 - Servlets
 - GlassFish Server
