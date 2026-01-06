@@ -34,6 +34,8 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 - Focused on simplicity and ease of use.
 - Implemented using HTML and JavaScript.
 
+
+
 2. **TechnoByteSolutions**: https://github.com/nondumiso03/techno_byte_solutions_website
 
 - TechnoByteSolutions - is a dynamic website developed as my final year class project. It demonstrates a full-stack Java EE web application using JSP and Servlets, hosted on a GlassFish server. The project was built using NetBeans IDE and showcases practical skills in Java web development.
@@ -62,6 +64,7 @@ b) **Using a WAR File**
 This project is for educational purposes and was created as part of my final year coursework.
 
 
+
 3. **Cleaning Services website**: https://github.com/nondumiso03/cleaning_service_website
 - Designed and developed a responsive website using HTML, CSS and JavaScript.
 - Implemented clear layouts, user-friendly navigation and a contact form.
@@ -69,7 +72,7 @@ This project is for educational purposes and was created as part of my final yea
 - Used Git and GitHub for version control and collaboration.
 - Deployed and hosted the application on Vercel, making it publicly accessible.
   
-  **Disclaimer**: AI chatbot feature is not yet operational.
+**Disclaimer**: AI chatbot feature is not yet operational.
   
 ---
 
