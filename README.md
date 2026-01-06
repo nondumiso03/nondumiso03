@@ -36,7 +36,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 
 2. **TechnoByteSolutions**: https://github.com/nondumiso03/techno_byte_solutions_website
 
-- TechnoByteSolutions is a dynamic website developed as my final year class project. It demonstrates a full-stack Java EE web application using JSP and Servlets, hosted on a GlassFish server. The project was built using NetBeans IDE and showcases practical skills in Java web development.
+- TechnoByteSolutions - is a dynamic website developed as my final year class project. It demonstrates a full-stack Java EE web application using JSP and Servlets, hosted on a GlassFish server. The project was built using NetBeans IDE and showcases practical skills in Java web development.
 
 Technologies Used:
 - Java (JEE)
