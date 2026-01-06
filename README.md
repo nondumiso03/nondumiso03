@@ -75,8 +75,8 @@ This project is for educational purposes and was created as part of my final yea
 ## 📜 Certifications
 - **Microsoft Azure Fundamentals (AZ-900)**  
 - **TryHackMe Pre-Security Path**  
-- Currently working on **relevant cybersecurity certifications** to strengthen my skills and industry readiness  
-
+- Currently preparing for industry-recognized cybersecurity certifications to strengthen my skills and industry readiness
+  
 ---
 
 ## 🎉 Fun Facts About Me
