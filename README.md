@@ -56,7 +56,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 - I continuously build hands-on cybersecurity skills through TryHackMe.
 - I enjoy analyzing network traffic using Wireshark, as it feels like digital detective work.
 - I value clear documentation and believe technology should be accessible and well-explained.
-- Outside of tech, I enjoy cooking, staying active at the gym, jogging, and listening to podcasts.
+- Outside of tech, I enjoy cooking, staying active at the gym, jogging and listening to podcasts.
 
 ---
 
