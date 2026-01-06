@@ -29,13 +29,13 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 📂 Projects
-**Personal Profile**: https://github.com/nondumiso03/personal-profile
+1. **Personal Profile**: https://github.com/nondumiso03/personal-profile
 - My first ever project!
 - Focused on simplicity and ease of use.
 - Implemented using HTML and JavaScript.
 
-**TechnoByteSolutions**: https://github.com/nondumiso03/techno_byte_solutions_website
-- TechnoByteSolutions is a dynamic website developed as my final year class project. It demonstrates a full-stack Java EE web application using JSP and Servlets, hosted on a GlassFish server. The project was built using NetBeans IDE and showcases practical skills in Java web development.
+2. **TechnoByteSolutions**: https://github.com/nondumiso03/techno_byte_solutions_website
+   TechnoByteSolutions is a dynamic website developed as my final year class project. It demonstrates a full-stack Java EE web application using JSP and Servlets, hosted on     a GlassFish server. The project was built using NetBeans IDE and showcases practical skills in Java web development.
 
 Technologies Used:
 - Java (JEE)
@@ -45,12 +45,12 @@ Technologies Used:
 - NetBeans IDE
 
 NB: You can run this project in two ways:
-1. **Using an IDE (e.g., NetBeans)**  
+i) **Using an IDE (e.g., NetBeans)**  
    - Import the project into NetBeans IDE
    - Configure the GlassFish server in your IDE
    - Run the project directly from the IDE
 
-2. **Using a WAR File**  
+ii) **Using a WAR File**  
    - Package the project as a '.war' file from NetBeans
    - Deploy the WAR file to any compatible servlet container (e.g GlassFish or Apache Tomcat)
    - Access the application through the server's configured URL
@@ -59,7 +59,7 @@ NB: You can run this project in two ways:
 This project is for educational purposes and was created as part of my final year coursework.
 
 
-**Cleaning Services website**: https://github.com/nondumiso03/cleaning_service_website
+3. **Cleaning Services website**: https://github.com/nondumiso03/cleaning_service_website
 - Designed and developed a responsive website using HTML, CSS and JavaScript.
 - Implemented clear layouts, user-friendly navigation and a contact form.
 - Followed basic best practices such as clean code structure and input handling.
