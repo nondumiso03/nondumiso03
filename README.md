@@ -7,7 +7,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 
 ## 🛠 Tech Stack
 - **Programming & Web Development**: Java (SE & JEE), HTML, CSS, JavaScript, SQL, PostgreSQL
-- **Operating Systems & Scripting**: Linux (Ubuntu, Bash CLI)  
+- **Operating Systems & Scripting**: Linux (Ubuntu, Kali and Bash CLI)  
 - **Database Management**: SQL, PL/SQL and PostgreSQL for database design and queries
 
 ---
