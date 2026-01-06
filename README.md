@@ -68,7 +68,8 @@ This project is for educational purposes and was created as part of my final yea
 - Followed basic best practices such as clean code structure and input handling.
 - Used Git and GitHub for version control and collaboration.
 - Deployed and hosted the application on Vercel, making it publicly accessible.
-- **Disclaimer**: AI chatbot feature is not yet operational.
+  
+  **Disclaimer**: AI chatbot feature is not yet operational.
   
 ---
 
