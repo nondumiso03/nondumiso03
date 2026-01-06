@@ -47,9 +47,9 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 
 ## 🎉 Fun Facts About Me
 - I started coding in Java, which remains my strongest and most comfortable language.
--I continuously build hands-on cybersecurity skills through TryHackMe.
--I enjoy analyzing network traffic using Wireshark, as it feels like digital detective work.
--I value clear documentation and believe technology should be accessible and well-explained.
+- I continuously build hands-on cybersecurity skills through TryHackMe.
+- I enjoy analyzing network traffic using Wireshark, as it feels like digital detective work.
+- I value clear documentation and believe technology should be accessible and well-explained.
 - Outside of tech, I enjoy cooking, staying active at the gym, jogging, and listening to podcasts.
 
 ---
