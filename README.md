@@ -54,7 +54,7 @@ a) **Using an IDE (e.g., NetBeans)**
 
 b) **Using a WAR File**  
    - Package the project as a '.war' file from NetBeans
-   - Deploy the WAR file to any compatible servlet container (e.g GlassFish or Apache Tomcat)
+   - Deploy the WAR file to any compatible servlet container (e.g GlassFish)
    - Access the application through the server's configured URL
      
 **License**:
