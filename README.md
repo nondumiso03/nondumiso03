@@ -29,7 +29,7 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 📂 Projects
-**Personal Profile**:
+**Personal Profile**: https://github.com/nondumiso03/personal-profile
 - My first ever project!
 - Focused on simplicity and ease of use.
 - Implemented using HTML and JavaScript.
