@@ -29,8 +29,13 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 📂 Projects
-- Cleaning Services website: 
-  
+**Cleaning Services website**
+- Designed and developed a responsive website using HTML, CSS and JavaScript.
+- Implemented clear layouts, user-friendly navigation and a contact form.
+- Followed basic best practices such as clean code structure and input handling.
+- Used Git and GitHub for version control and collaboration.
+- Deployed and hosted the application on Vercel, making it publicly accessible.
+
 ---
 
 ## 📜 Certifications
@@ -41,11 +46,11 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 ---
 
 ## 🎉 Fun Facts About Me
-- I started out coding in **Java**, and it’s still my comfort language.  
-- I’m always learning something new on **TryHackMe**.  
-- I love digging into **network packets with Wireshark** because it feels like detective work and feeds my curiosity.  
-- I enjoy writing clear documentation because I believe **tech should be accessible to everyone**.  
-- Outside of tech, I enjoy **cooking**, going to the **gym**, **jogging** and listening to **podcasts**.  
+- I started coding in Java, which remains my strongest and most comfortable language.
+-I continuously build hands-on cybersecurity skills through TryHackMe.
+-I enjoy analyzing network traffic using Wireshark, as it feels like digital detective work.
+-I value clear documentation and believe technology should be accessible and well-explained.
+- Outside of tech, I enjoy cooking, staying active at the gym, jogging, and listening to podcasts.
 
 ---
 
@@ -54,4 +59,4 @@ A Final-year Computer Science student and Cybersecurity trainee interested in Bl
 
 ---
 
-✨ *“I love keeping systems safe, building with Java and Linux, and growing my skills in AI and cybersecurity.”*
+✨ *“I love keeping systems safe, building with Java and Linux and growing my skills in AI and cybersecurity.”*
