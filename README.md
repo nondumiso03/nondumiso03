@@ -1,100 +1,92 @@
-## Hi! 👋
+# Hi! 👋
 
 # I'm Nondumiso Xulu 👩🏽‍💻
-A Final-year Computer Science student and Cybersecurity trainee interested in Blue team, I'm deeply passionate about **technology** and anything related to **security**. I really enjoy exploring how systems work and how they can be protected. 
+A Computer Science graduate passionate about **data analytics, business intelligence, and data-driven decision-making**. I enjoy working with data to uncover patterns, identify trends, and turn raw information into meaningful insights. I am continuously developing my skills in data cleaning, SQL querying, data visualization, and dashboard development to help businesses make informed decisions.
 
 ---
 
 ## 🛠 Tech Stack
-- **Programming & Web Development**: Java (SE & JEE), HTML, CSS, JavaScript, SQL, PostgreSQL
-- **Operating Systems & Scripting**: Linux (Ubuntu, Kali and Bash CLI)  
-- **Database Management**: SQL, PL/SQL and PostgreSQL for database design and queries
+
+- **Data Analysis & Visualization:** Microsoft Excel, Power BI, data cleaning, data visualization, dashboard development, and report writing
+- **Databases & SQL:** SQL, PostgreSQL, MySQL, PL/SQL, database design, data manipulation, and query optimization
+- **Programming:** Python (currently developing my data analysis skills), Java, HTML, CSS, and JavaScript
+- **Tools & Platforms:** Microsoft Excel, Power BI, pgAdmin, VS Code, Git, and GitHub
 
 ---
 
 ## 🔧 Favourite Tools
-- **Kali Linux** – for penetration testing and security research  
-- **VS Code** – my go-to editor for lightweight development  
-- **NetBeans** – for Java projects and enterprise applications  
-- **Wireshark** – for network analysis and digital forensics  
+
+- **Microsoft Excel** – for data cleaning, formulas, PivotTables, reporting, and analyzing trends
+- **Power BI** – for creating interactive dashboards and presenting data through meaningful visualizations
+- **PostgreSQL & pgAdmin** – for querying, managing, and analyzing relational databases
+- **VS Code** – for writing SQL queries and working on data-related projects
+- **GitHub** – for version control and showcasing my projects and technical growth
 
 ---
 
 ## 🎯 Interests
-- Cybersecurity & digital forensics
-- Web Design
-- AI chatbot configuration and automation  
-- System engineering and infrastructure setup  
+
+- Data Analytics & Business Intelligence
+- Data Visualization & Dashboard Development
+- SQL & Database Management
+- Business Performance & Sales Analysis
+- Data Quality, Cleaning & Validation
+- Reporting & Data-Driven Decision-Making
+
+---
+
+## 💼 Experience
+
+**Data Analytics Intern — Remote**
+
+- Gaining practical experience in data analytics and working with data-related tasks.
+- Developing skills in data preparation, analysis, and reporting.
+- Applying analytical and problem-solving skills to support data-driven decision-making.
+- Continuously strengthening my technical knowledge of databases, spreadsheets, and data visualization tools.
 
 ---
 
 ## 📂 Projects
-1. **Personal Profile**: https://github.com/nondumiso03/personal-profile
-- My first ever project!
-- Focused on simplicity and ease of use.
-- Implemented using HTML and JavaScript.
 
+### 4. Financial Sales Analysis — SQL & Power BI
+*In progress*
 
+- Working with financial sales data to explore sales performance, profitability, product trends, and regional performance.
+- Using PostgreSQL to create tables, insert records, and write analytical SQL queries.
+- Planning to develop Power BI dashboards to communicate key findings through interactive visualizations.
 
-2. **TechnoByteSolutions**: https://github.com/nondumiso03/techno_byte_solutions_website
+**Technologies:** Excel, PostgreSQL, SQL, Power BI, and pgAdmin.
 
-- TechnoByteSolutions - is a dynamic website developed as my final year class project. It demonstrates a full-stack Java EE web application using JSP and Servlets, hosted on a GlassFish server. The project was built using NetBeans IDE and showcases practical skills in Java web development.
-
-Technologies Used:
-- Java (JEE)
-- HTML
-- JSP (JavaServer Pages)
-- Servlets
-- GlassFish Server
-- NetBeans IDE
-
-NB: You can run this project in two ways:
-
-a) **Using an IDE (e.g., NetBeans)**  
-   - Import the project into NetBeans IDE
-   - Configure the GlassFish server in your IDE
-   - Run the project directly from the IDE
-
-b) **Using a WAR File**  
-   - Package the project as a '.war' file from NetBeans
-   - Deploy the WAR file to any compatible servlet container (e.g GlassFish)
-   - Access the application through the server's configured URL
-     
-**License**:
-This project is for educational purposes and was created as part of my final year coursework.
-
-
-
-3. **Cleaning Services website**: https://github.com/nondumiso03/cleaning_service_website
-- Designed and developed a responsive website using HTML, CSS and JavaScript.
-- Implemented clear layouts, user-friendly navigation and a contact form.
-- Followed basic best practices such as clean code structure and input handling.
-- Used Git and GitHub for version control and collaboration.
-- Deployed and hosted the application on Vercel, making it publicly accessible.
-  
-**Disclaimer**: AI chatbot feature is not yet operational.
-  
 ---
 
 ## 📜 Certifications
-- **Microsoft Azure Fundamentals (AZ-900)**  
-- **TryHackMe Pre-Security Path**  
-- Currently preparing for industry-recognized cybersecurity certifications to strengthen my skills and industry readiness
-  
+
+- **Microsoft Azure Fundamentals (AZ-900)**
+
+## 🌱 Currently Learning
+
+- Advanced SQL queries and data aggregation
+- Power BI dashboard development and DAX
+- Data cleaning and transformation
+- Business intelligence and KPI reporting
+
 ---
 
 ## 🎉 Fun Facts About Me
-- I started coding in Java, which remains my strongest and most comfortable language.
-- I continuously build hands-on cybersecurity skills through TryHackMe.
-- I enjoy analyzing network traffic using Wireshark, as it feels like digital detective work.
-- I value clear documentation and believe technology should be accessible and well-explained.
-- Outside of tech, I enjoy cooking, staying active at the gym, jogging and listening to podcasts.
+
+- I started my programming journey with Java, which remains one of my strongest programming languages.
+- I enjoy solving problems and discovering patterns in data.
+- I believe that clear documentation and effective data visualization make information easier to understand.
+- I am continuously building practical projects to strengthen my analytical and technical skills.
+- Outside technology, I enjoy cooking, going to the gym, jogging, and listening to podcasts.
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nondumiso-xulu-566190346/)  
+
+- **LinkedIn:** https://www.linkedin.com/in/nondumiso-xulu-566190346/
+- **GitHub:** https://github.com/nondumiso03
 
 ---
 
-✨ *“I love keeping systems safe, building with Java and Linux and growing my skills in AI and cybersecurity.”*
+✨ "Turning data into insights, insights into understanding, and understanding into better decisions."
