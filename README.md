@@ -9,7 +9,7 @@ A Computer Science graduate passionate about data analytics, business intelligen
 
 - **Data Analysis & Visualization:** Microsoft Excel, Power BI, data cleaning, data visualization, dashboard development, and report writing
 - **Databases & SQL:** SQL, PostgreSQL, MySQL, PL/SQL, database design, data manipulation, and query optimization
-- **Programming:** Python (currently developing my data analysis skills), Java, HTML, CSS, and JavaScript
+- **Programming:** Java, HTML, CSS, and JavaScript
 - **Tools & Platforms:** Microsoft Excel, Power BI, pgAdmin, VS Code, Git, and GitHub
 
 ---
