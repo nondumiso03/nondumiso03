@@ -1,7 +1,7 @@
 # Hi! 👋
 
 # I'm Nondumiso Xulu 👩🏽‍💻
-A Computer Science graduate passionate about **data analytics, business intelligence, and data-driven decision-making**. I enjoy working with data to uncover patterns, identify trends, and turn raw information into meaningful insights. I am continuously developing my skills in data cleaning, SQL querying, data visualization, and dashboard development to help businesses make informed decisions.
+A Computer Science graduate passionate about data analytics, business intelligence, and data-driven decision-making. I enjoy working with data to uncover patterns, identify trends, and turn raw information into meaningful insights. I am continuously developing my skills in data cleaning, SQL querying, data visualization, and dashboard development to help businesses make informed decisions.
 
 ---
 
