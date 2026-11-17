@@ -63,15 +63,6 @@ A Computer Science graduate passionate about data analytics, business intelligen
 
 - **Microsoft Azure Fundamentals (AZ-900)**
 
-## 🌱 Currently Learning
-
-- Advanced SQL queries and data aggregation
-- Power BI dashboard development and DAX
-- Data cleaning and transformation
-- Business intelligence and KPI reporting
-
----
-
 ## 🎉 Fun Facts About Me
 
 - I started my programming journey with Java, which remains one of my strongest programming languages.
